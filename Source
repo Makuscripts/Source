@@ -397,7 +397,7 @@ until Confirmed
 local Window =
     WindUI:CreateWindow(
     {
-        Title = "Spawner Hub | Made by MozilOnTop Modified by Makuscripts",
+        Title = "Spawner Hub | Made by MozilOnTop",
         Icon = "sparkles",
         IconThemed = true,
         Author = "Grow A Garden",
